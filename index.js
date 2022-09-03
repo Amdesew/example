@@ -31,6 +31,7 @@ function result(){
 
     else if (mytext.value == 94372){
         message.innerHTML = "ዉጤት፡ አስማማዉ ወርቁ አምሳሉ›››  "
+    
     }
 
     else if (mytext.value == 94373){
@@ -239,6 +240,50 @@ function result(){
 
     else if (mytext.value == 94434){
         message.innerHTML = "ዉጤት፡ ተመስገን ተሰራ ገበየ›››  "
+    }
+    
+    else if (mytext.value == 94435){
+        message.innerHTML = "ዉጤት፡ ሙሉነህ ካሳዉ ምህረቱ›››  "
+    }
+
+    else if (mytext.value == 94436){
+        message.innerHTML = "ዉጤት፡ ላቀዉ ምትኩ አበራ›››  "
+    }
+
+    else if (mytext.value == 94437){
+        message.innerHTML = "ዉጤት፡ ሰማ አንዳርጌ ታየ››  "
+    }
+
+    else if (mytext.value == 94438){
+        message.innerHTML = "ዉጤት፡ ሄኖክ አያሌዉ አባተ››  "
+    }
+
+    else if (mytext.value == 94440){
+        message.innerHTML = "ዉጤት፡ ፈለግ ቢምረዉ ተፈራ››  "
+    }
+
+    else if (mytext.value == 94441){
+        message.innerHTML = "ዉጤት፡ አዲሱ ያየህ ኑርልኝ››  "
+    }
+
+    else if (mytext.value == 94442){
+        message.innerHTML = "ዉጤት፡ ቴወድሮስ ገበያዉ መኮነን››  "
+    }
+
+    else if (mytext.value == 94443){
+        message.innerHTML = "ዉጤት፡ ሰይድ ሞገስ ኑሬ››  "
+    }
+
+    else if (mytext.value == 94444){
+        message.innerHTML = "ዉጤት፡ ደመቀ ምህረቱ ዘገየ››  "
+    }
+
+    else if (mytext.value == 94445){
+        message.innerHTML = "ዉጤት፡ አንተነህ መንግስቱ ደፋሩ››  "
+    }
+
+    else if (mytext.value == 94446){
+        message.innerHTML = "ዉጤት፡ መልካሙ ጸጋ ጥጋቡ››  "
     }
 
     else{

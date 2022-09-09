@@ -12,12 +12,14 @@ body{
 input{
     border-radius: 10px;
     height: 25px;
+    border-color: white;
 }
 
 button{
     border-radius: 30px;
     height: 30px;
     width: 15px;
+    border-color: lightcyan;
     background-color: beige;
 }
 

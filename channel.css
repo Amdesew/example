@@ -13,4 +13,16 @@ body{
 label{
     font-family: arial;
     font-size:20px;
+    text-align: center;
+}
+
+iframe{
+    width: 20px;
+    height: 330px;
+}
+
+a{
+    text-align: center;
+    color: red;
+    text-decoration: none;
 }

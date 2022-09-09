@@ -20,5 +20,12 @@ button{
     margin-right: auto;
     color: black;
     background-color: skyblue;
-    border-radius: 100px
+    border-radius: 100px;
+    height: 45px;
+    border-color: skyblue;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }

@@ -11,16 +11,16 @@ body{
 
 input{
     border-radius: 10px;
-    height: 25px;
+    height: 35px;
     border-color: white;
 }
 
 button{
     border-radius: 30px;
-    height: 30px;
+    height: 45px;
     width: 15px;
     border-color: lightcyan;
-    background-color: beige;
+    background-color: lightcyan;
 }
 
 h3{
